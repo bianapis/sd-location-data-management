@@ -1,0 +1,12 @@
+{
+  "locationOccupierTerms" : "Leasehold",
+  "locationDataDirectoryEntryReference" : "LDR7234653254",
+  "locationOccupierReference" : "ABC Inc",
+  "occupancyDirectoryEntryReference" : "ODER734634",
+  "alliancePartnerReference" : "APRE4905",
+  "customerReference" : "CR765234624",
+  "locationReference" : "LC7237",
+  "locationOwnerTitle" : "John/Peter",
+  "locationOccupierType" : "Business",
+  "locationValue" : "Estimated $100,000"
+}

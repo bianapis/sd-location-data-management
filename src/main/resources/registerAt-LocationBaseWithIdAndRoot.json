@@ -1,0 +1,13 @@
+{
+  "locationStatus" : "inhabited",
+  "locationDataDirectoryEntryReference" : "LDR7234653254",
+  "locationDirectoryEntryReference" : "LDE7234624",
+  "locationType" : "PointOfInterest",
+  "landmarkDescription" : "Henry Hudson Riverfront Park",
+  "locationConstructionType" : "Modern",
+  "locationNeighborhoodType" : "Retail",
+  "locationReference" : "LR56",
+  "locationAddress" : "15A Lincon Street Hudson NewYork United States",
+  "locationCoordinates" : "42.2529° N 73.7910° W",
+  "locationCapacity" : "2 MillionSquareFeet"
+}
